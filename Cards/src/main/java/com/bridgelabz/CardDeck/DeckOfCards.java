@@ -1,8 +1,8 @@
 package com.bridgelabz.CardDeck;
 
 public class DeckOfCards {
-	
-	int noOfPlayers = 4;
+						    
+    int noOfPlayers = 4;
     int noOfCardDistribution = 9;
     String[][] playerArray = new String[noOfPlayers][noOfCardDistribution];
     String[] DeckOfCard = new String[52];
